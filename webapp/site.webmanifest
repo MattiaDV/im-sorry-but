@@ -1,0 +1,11 @@
+{
+    "short_name": "Im sorry but...",
+    "name": "Im sorry, the perfect app for say sorry",
+    "icons": [{
+        "src": "./img/logo.png",
+        "type": "image/png",
+        "sizes": "192x192"
+    }],
+    "theme_color": "white",
+    "display": "fullscreen"
+}
